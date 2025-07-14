@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.gguf
+.vscode/
+*.db
+.DS_Store
+*.log
+*.sqlite3
+models/
