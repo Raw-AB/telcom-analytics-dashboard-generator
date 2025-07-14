@@ -15,3 +15,4 @@ User (NL-Query) → Streamlit UI
                 →
        Final Insight + Chart 
 
+<img width="3754" height="1881" alt="Screenshot 2025-06-11 144943" src="https://github.com/user-attachments/assets/70cd03e4-c0af-4293-a745-98a6f20ab086" />
